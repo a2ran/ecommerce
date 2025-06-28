@@ -1,0 +1,94 @@
+# MacOS 관련 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Thumbnails
+._.DS_Store
+**/._*
+.Spotlight-V100
+.Trashes
+.metadata_never_index
+.AppleDesktop
+.fseventsd
+
+# IntelliJ IDEA 관련 파일
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Visual Studio Code 관련 파일
+.vscode/
+*.code-workspace
+
+# OS-specific directories
+*.swp
+*~
+*.swo
+
+# Logs
+*.log
+
+# Node modules (if applicable)
+node_modules/
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python 관련 파일
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Python 가상환경
+venv/
+env/
+ENV/
+.venv/
+.env/
+.virtualenv/
+.python-version
+
+# Python 테스트/커버리지
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Python Jupyter 노트북
+.ipynb_checkpoints/
+
+# VSCode + Python 특정 설정
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+pyrightconfig.json
+.history/

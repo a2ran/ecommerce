@@ -1,5 +1,6 @@
 # ecommerce
-'''
+
+```
 feature_prompts = {
     'captioning': ("Describe this image. Answer in one sentence.", 32),
     'is_person': ("Is there a person in the image? Answer Yes or No", 5),
@@ -9,7 +10,7 @@ feature_prompts = {
     'object_count': ("How many products are visible in this image? Answer only number", 8),
     'dominant_color': ("What is the dominant color in this image? Answer only color", 8)
 }
-'''
+```
 
 1. 캡션 생성
 2. 사람 있는가?

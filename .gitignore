@@ -69,6 +69,7 @@ wheels/
 # Python 가상환경
 venv/
 env/
+flash-attention/
 ENV/
 .venv/
 .env/
